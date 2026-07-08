@@ -260,3 +260,15 @@ footer p{
     transform:scale(1.03);
 
 }
+footer a{
+
+    color:white;
+    text-decoration:none;
+
+}
+
+footer a:hover{
+
+    color:#e31b23;
+
+}
